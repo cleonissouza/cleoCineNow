@@ -1,5 +1,6 @@
 package com.devspacecinenow
 
+import com.google.gson.internal.GsonBuildConfig
 import okhttp3.OkHttpClient
 import okhttp3.Request
 import retrofit2.Retrofit
@@ -11,7 +12,7 @@ object RetrofitClient {
     private val httpClient: OkHttpClient
         get() {
             val clientBuilder = OkHttpClient.Builder()
-            val token = ""
+            val token = BuildConfig.API_KEY
 
             clientBuilder.addInterceptor { chain ->
                 val original: Request = chain.request()
