@@ -171,7 +171,7 @@ private fun MovieListContent(
         )
 
         MovieSession(
-            label = "Tpo rated",
+            label = "Top rated",
             movieList = topRatedMovies,
             onClick = onClick
         )
