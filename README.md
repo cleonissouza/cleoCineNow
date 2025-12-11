@@ -30,7 +30,9 @@ That’s it! The app will now run using your local API key.
 
 ### :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="https://github.com/ComunidadeDevSpace/CineNow/assets/11612508/9690f66d-fb65-4cd7-82db-954473cb6c2d" width=260/> <img src="https://github.com/ComunidadeDevSpace/CineNow/assets/11612508/f8006a40-8855-4d6f-b9b9-a44a8c991fe1" width=260/>
+<img width="300" src="https://github.com/user-attachments/assets/87cc4f97-4f59-4331-9012-e8c3efc59011" />
+<img width="300" src="https://github.com/user-attachments/assets/dfb6d8f5-e2c5-4fa2-8968-d62a30fbe765" />
+
 
 
 ## Tecnologias
@@ -73,7 +75,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ```
 
-## Author (under guidance of Roque buarque)   
+## Author (under the guidance of Roque buarque)   
 Francisco Cleonis Costa de Souza   
 Android Developer (Junior)   
 📍 Bristol, UK  
