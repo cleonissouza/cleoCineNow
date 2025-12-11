@@ -1,12 +1,34 @@
 # CineNow APP
-CineNow é um aplicativo Android que permite aos usuários explorar filmes populares em tempo real, obtendo informações diretamente da API do The Movie Database (TMDB). Com uma interface amigável, os usuários podem visualizar detalhes de filmes, incluindo sinopse, data de lançamento, classificação, e muito mais.
 
-Funcionalidades
-- Filmes Populares: Visualize uma lista de filmes populares atualizada diariamente.
-- Detalhes do Filme: Obtenha informações detalhadas sobre cada filme, como título, sinopse, data de lançamento, classificação, e cartaz.
-- Interface Intuitiva: Navegação fácil e design limpo para uma melhor experiência do usuário.
+CineNow is a modern and intuitive Android app designed for movie lovers who want quick and reliable access to popular films. Powered by The Movie Database (TMDB) API, CineNow delivers up-to-date movie information with a clean and engaging user experience.
 
-## :camera_flash: Screenshots
+## ✨ Key Features
+
+### 🎬 Popular Movies   
+Browse a constantly updated list of trending and popular films, refreshed daily using real-time TMDB data.   
+
+### 📄 Detailed Movie Information   
+Access complete details for each movie, including title, synopsis, release date, rating, genres, and official poster.   
+
+### 🖥️ Smooth & Intuitive Interface   
+Enjoy a clean, user-friendly layout that makes navigation effortless and visually appealing.    
+
+## 🔑 API Setup (TMDB)   
+
+This project requires a TMDB API Read Access Token.   
+For security reasons, the token is not included in the repository.   
+
+### To run the app:   
+	1.	Create a free account at https://www.themoviedb.org/   
+	2.	Go to Settings → API and copy your API Read Access Token    
+	3.	In the project root, create a file named: local.properties   
+  
+	4.	Add your token: API_KEY="YOUR_TMDB_TOKEN_HERE"   
+
+	5.	Sync the project in Android Studio.   
+That’s it! The app will now run using your local API key.   
+
+### :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
 <img src="https://github.com/ComunidadeDevSpace/CineNow/assets/11612508/9690f66d-fb65-4cd7-82db-954473cb6c2d" width=260/> <img src="https://github.com/ComunidadeDevSpace/CineNow/assets/11612508/f8006a40-8855-4d6f-b9b9-a44a8c991fe1" width=260/>
 
